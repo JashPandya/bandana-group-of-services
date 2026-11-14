@@ -1,0 +1,16 @@
+{
+  "routes": [
+    { "path": "/", "title": "Bandana Group of Services" },
+    { "path": "/about", "title": "About Us | Bandana Group of Services" },
+    { "path": "/services", "title": "LinkedIn Acquisition Services | Bandana Group of Services" },
+    { "path": "/industries", "title": "Industries We Serve | Bandana Group of Services" },
+    { "path": "/process", "title": "Our Process | Bandana Group of Services" },
+    { "path": "/case-studies", "title": "Case Studies | Bandana Group of Services" },
+    { "path": "/contact", "title": "Contact | Bandana Group of Services" },
+    { "path": "/book-a-strategy-call", "title": "Book a Strategy Call | Bandana Group of Services" },
+    { "path": "/privacy", "title": "Privacy Policy | Bandana Group of Services" },
+    { "path": "/terms", "title": "Terms & Conditions | Bandana Group of Services" },
+    { "path": "/thank-you", "title": "Thank You | Bandana Group of Services" },
+    { "path": "/404", "title": "Page Not Found | Bandana Group of Services" }
+  ]
+}

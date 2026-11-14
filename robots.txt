@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Add the production sitemap URL after the public domain is confirmed.
